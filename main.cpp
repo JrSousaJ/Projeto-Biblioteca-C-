@@ -2,6 +2,7 @@
 using namespace std;
 #include "livros.h"
 #include "editora.h"
+#include "autores.h"
 
 int main()
 {
