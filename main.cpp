@@ -3,6 +3,8 @@ using namespace std;
 #include "livros.h"
 #include "editora.h"
 #include "autores.h"
+#include "tema.h"
+
 
 int main()
 {
